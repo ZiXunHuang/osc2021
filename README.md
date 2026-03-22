@@ -12,7 +12,7 @@
 make
 ```
 
-## How to run (on qemu)
+## How to run (on QEMU)
 
 ```
 make run
