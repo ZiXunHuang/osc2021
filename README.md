@@ -1,4 +1,4 @@
-# My OSC 2021
+# OSC 2021
 
 ## Author
 
