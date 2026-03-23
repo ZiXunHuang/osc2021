@@ -25,9 +25,9 @@ A functional microkernel implemented from scratch for Raspberry Pi 3b+, focusing
 
 ## Author
 
-| 學號 | GitHub 帳號 | 姓名 | Email |
-| --- | ----------- | --- | --- |
-|`309513017`| `ZiXunHuang` | `黃梓熏` | willie0402.eed05@nctu.edu.tw |
+| GitHub 帳號 | 姓名 | Email |
+| ----------- | --- | --- |
+| `ZiXunHuang` | `黃梓熏` | willie0402.eed05@nctu.edu.tw |
 
 ## How to build
 
