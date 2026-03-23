@@ -1,5 +1,3 @@
-# OSC 2021
-
 ## ARMv8-Based Real-Time Microkernel
 A functional microkernel implemented from scratch for Raspberry Pi 3b+, focusing on core OS concepts including memory management, preemptive scheduling, and virtual file systems.
 
