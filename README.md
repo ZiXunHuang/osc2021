@@ -30,7 +30,7 @@ A functional microkernel implemented from scratch for Raspberry Pi 3b+, focusing
 
 | 學號 | GitHub 帳號 | 姓名 | Email |
 | --- | ----------- | --- | --- |
-|`309513017`| `ZiXunHuang` | `黃梓熏` | s210076@my.cmsh.cyc.edu.tw |
+|`309513017`| `ZiXunHuang` | `黃梓熏` | willie0402.eed05@nctu.edu.tw |
 
 ## How to build
 
