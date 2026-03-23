@@ -19,7 +19,6 @@ A functional microkernel implemented from scratch for Raspberry Pi 3b+, focusing
 * **System Security & Hardware Abstraction**
   * MMU Configuration: Configured ARMv8 3-level page tables (PGD, PUD, PMD) supporting 2MB block mapping for efficient address translation.
   * Isolation: Enforced strict EL0/EL1 memory isolation; utilized MAIR_EL1 to define distinct cache attributes for Normal Memory and Device MMIO.
-  * Context Management: Used Trap Frames to ensure robust CPU state preservation during exception handling and context switching.
 
 * **Implemented System Calls**
   * Supported 10+ POSIX-like syscalls (e.g., fork, exec, wait, exit, mount) via SVC exception handling.
